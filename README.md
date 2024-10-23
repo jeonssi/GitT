@@ -1,0 +1,2 @@
+# GitT
+lang c test
